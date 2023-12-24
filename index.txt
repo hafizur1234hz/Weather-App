@@ -1,7 +1,7 @@
 weatherio
 weatherio is a weather app made by codewithsadee
 
-
+weatherio is a weather app made by codewithsadee
 
 #---------- HEADER ----------#
 
